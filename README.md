@@ -1,3 +1,4 @@
+<h2>Assessing Diplomatic Potential of LLMs through Geopolitical Analysis</h2>
 <h4>Note: Project complete from February 2024 - March 2024. Committed in March 2024.</h4>
 Analyzing tense geopolitical relations in Asia using PaLM-2. -> VADER pipeline to assess diplomatic potential of GenAI + Sentiment Analysis tools.
 <h4>5 step process: </h4>
