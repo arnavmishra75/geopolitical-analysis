@@ -1,0 +1,46 @@
+,Country Pairing,Tension Score
+0,China-India,46.83
+1,China-Saudi Arabia,1.965
+2,China-Yemen,62.405
+3,China-Syria,5.735
+4,China-Iran,29.9
+5,China-Japan,5.965
+6,China-Pakistan,27.42
+7,China-Israel,21.055
+8,China-Turkmenistan,0.83
+9,India-Saudi Arabia,69.595
+10,India-Yemen,91.47
+11,India-Syria,74.695
+12,India-Iran,42.345
+13,India-Japan,0.075
+14,India-Pakistan,99.585
+15,India-Israel,16.875
+16,India-Turkmenistan,0.165
+17,Saudi Arabia-Yemen,98.15
+18,Saudi Arabia-Syria,3.475
+19,Saudi Arabia-Iran,99.645
+20,Saudi Arabia-Japan,0.3
+21,Saudi Arabia-Pakistan,26.01  
+22,Saudi Arabia-Israel,2.555
+23,Saudi Arabia-Turkmenistan,0.425
+24,Yemen-Syria,10.93
+25,Yemen-Iran,99.505
+26,Yemen-Japan,36.475
+27,Yemen-Pakistan,93.965
+28,Yemen-Israel,1.36
+29,Yemen-Turkmenistan,91.735
+30,Syria-Iran,95.59
+31,Syria-Japan,99.12
+32,Syria-Pakistan,0.335
+33,Syria-Israel,
+34,Syria-Turkmenistan,74.165
+35,Iran-Japan,0.325
+36,Iran-Pakistan,63.61
+37,Iran-Israel,
+38,Iran-Turkmenistan,1.05
+39,Japan-Pakistan,0.875
+40,Japan-Israel,2.555
+41,Japan-Turkmenistan,0.505
+42,Pakistan-Israel,
+43,Pakistan-Turkmenistan,81.845
+44,Israel-Turkmenistan,28.65

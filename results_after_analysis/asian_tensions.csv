@@ -1,0 +1,766 @@
+,Country Pairing,Tension Score
+0,China-India,2.705
+1,China-Kazakhstan,1.34
+2,China-Saudi Arabia,4.73
+3,China-Iran,16.215
+4,China-Mongolia,1.075
+5,China-Pakistan,3.59
+6,China-Myanmar,2.03
+7,China-Afghanistan,2.91
+8,China-Yemen,30.91
+9,China-Thailand,97.96
+10,China-Turkmenistan,0.65
+11,China-Iraq,98.075
+12,China-Japan,99.25
+13,China-Vietnam,51.2
+14,China-Oman,0.71
+15,China-Kyrgyzstan,1.89
+16,China-Syria,97.405
+17,China-Bangladesh,1.135
+18,China-Nepal,2.515
+19,China-N. Korea,86.755
+20,China-S. Korea,7.775
+21,China-Azerbaijan,2.7
+22,China-United Arab Emirates,2.215
+23,China-Sri Lanka,96.23
+24,China-Israel,1.23
+25,China-Uzbekistan,4.155
+26,China-Laos,4.71
+27,China-Cambodia,2.885
+28,China-Tajikistan,2.955
+29,China-Jordan,1.095
+30,China-Georgia,1.43
+31,China-Bhutan,28.925
+32,China-Armenia,3.7
+33,China-Kuwait,1.04
+34,China-Qatar,1.51
+35,China-Lebanon,3.34
+36,China-Singapore,3.255
+37,China-Bahrain,5.38
+38,China-Maldives,4.69
+39,India-Kazakhstan,0.625
+40,India-Saudi Arabia,81.845
+41,India-Iran,11.1
+42,India-Mongolia,1.03
+43,India-Pakistan,99.15
+44,India-Myanmar,55.77
+45,India-Afghanistan,5.45
+46,India-Yemen,20.34
+47,India-Thailand,0.235
+48,India-Turkmenistan,0.32
+49,India-Iraq,0.435
+50,India-Japan,0.47
+51,India-Vietnam,2.495
+52,India-Oman,9.63
+53,India-Kyrgyzstan,0.78
+54,India-Syria,99.165
+55,India-Bangladesh,98.36
+56,India-Nepal,41.725
+57,India-N. Korea,9.25
+58,India-S. Korea,0.615
+59,India-Azerbaijan,0.305
+60,India-United Arab Emirates,2.025
+61,India-Sri Lanka,18.155
+62,India-Israel,0.63
+63,India-Uzbekistan,1.595
+64,India-Laos,0.63
+65,India-Cambodia,4.5
+66,India-Tajikistan,0.39
+67,India-Jordan,2.625
+68,India-Georgia,0.435
+69,India-Bhutan,1.7
+70,India-Armenia,1.02
+71,India-Kuwait,2.38
+72,India-Qatar,0.305
+73,India-Lebanon,2.205
+74,India-Singapore,1.145
+75,India-Bahrain,1.025
+76,India-Maldives,73.835
+77,Kazakhstan-Saudi Arabia,1.095
+78,Kazakhstan-Iran,3.7
+79,Kazakhstan-Mongolia,0.34
+80,Kazakhstan-Pakistan,1.105
+81,Kazakhstan-Myanmar,1.355
+82,Kazakhstan-Afghanistan,0.59
+83,Kazakhstan-Yemen,2.7
+84,Kazakhstan-Thailand,15.46
+85,Kazakhstan-Turkmenistan,34.885
+86,Kazakhstan-Iraq,50.285
+87,Kazakhstan-Japan,0.33
+88,Kazakhstan-Vietnam,1.25
+89,Kazakhstan-Oman,0.745
+90,Kazakhstan-Kyrgyzstan,51.29
+91,Kazakhstan-Syria,98.005
+92,Kazakhstan-Bangladesh,1.17
+93,Kazakhstan-Nepal,1.94
+94,Kazakhstan-N. Korea,98.37
+95,Kazakhstan-S. Korea,0.74
+96,Kazakhstan-Azerbaijan,6.795
+97,Kazakhstan-United Arab Emirates,39.885
+98,Kazakhstan-Sri Lanka,0.86
+99,Kazakhstan-Israel,1.28
+100,Kazakhstan-Uzbekistan,2.245
+101,Kazakhstan-Laos,0.8
+102,Kazakhstan-Cambodia,0.305
+103,Kazakhstan-Tajikistan,19.065
+104,Kazakhstan-Jordan,0.31
+105,Kazakhstan-Georgia,98.245
+106,Kazakhstan-Bhutan,1.33
+107,Kazakhstan-Armenia,13.045
+108,Kazakhstan-Kuwait,0.855
+109,Kazakhstan-Qatar,1.53
+110,Kazakhstan-Lebanon,2.66
+111,Kazakhstan-Singapore,1.295
+112,Kazakhstan-Bahrain,0.67
+113,Kazakhstan-Maldives,1.48
+114,Saudi Arabia-Iran,99.08
+115,Saudi Arabia-Mongolia,2.06
+116,Saudi Arabia-Pakistan,2.065
+117,Saudi Arabia-Myanmar,95.845
+118,Saudi Arabia-Afghanistan,97.505
+119,Saudi Arabia-Yemen,99.41
+120,Saudi Arabia-Thailand,46.14
+121,Saudi Arabia-Turkmenistan,27.98
+122,Saudi Arabia-Iraq,95.59
+123,Saudi Arabia-Japan,21.705
+124,Saudi Arabia-Vietnam,95.445
+125,Saudi Arabia-Oman,95.38
+126,Saudi Arabia-Kyrgyzstan,97.795
+127,Saudi Arabia-Syria,92.75
+128,Saudi Arabia-Bangladesh,34.605
+129,Saudi Arabia-Nepal,61.315
+130,Saudi Arabia-N. Korea,97.89
+131,Saudi Arabia-S. Korea,77.495
+132,Saudi Arabia-Azerbaijan,18.285
+133,Saudi Arabia-United Arab Emirates,93.69
+134,Saudi Arabia-Sri Lanka,97.99
+135,Saudi Arabia-Israel,50.095
+136,Saudi Arabia-Uzbekistan,3.95
+137,Saudi Arabia-Laos,7.79
+138,Saudi Arabia-Cambodia,98.39
+139,Saudi Arabia-Tajikistan,57.655
+140,Saudi Arabia-Jordan,94.965
+141,Saudi Arabia-Georgia,91.905
+142,Saudi Arabia-Bhutan,53.86
+143,Saudi Arabia-Armenia,95.255
+144,Saudi Arabia-Kuwait,98.965
+145,Saudi Arabia-Qatar,97.255
+146,Saudi Arabia-Lebanon,95.14
+147,Saudi Arabia-Singapore,0.855
+148,Saudi Arabia-Bahrain,98.525
+149,Saudi Arabia-Maldives,2.535
+150,Iran-Mongolia,0.47
+151,Iran-Pakistan,40.75
+152,Iran-Myanmar,98.85
+153,Iran-Afghanistan,84.155
+154,Iran-Yemen,98.37
+155,Iran-Thailand,98.515
+156,Iran-Turkmenistan,98.6
+157,Iran-Iraq,98.97
+158,Iran-Japan,43.745
+159,Iran-Vietnam,95.68
+160,Iran-Oman,78.175
+161,Iran-Kyrgyzstan,90.36
+162,Iran-Syria,83.635
+163,Iran-Bangladesh,70.51
+164,Iran-Nepal,53.265
+165,Iran-N. Korea,3.95
+166,Iran-S. Korea,5.75
+167,Iran-Azerbaijan,99.34
+168,Iran-United Arab Emirates,89.65
+169,Iran-Sri Lanka,86.345
+170,Iran-Israel,98.9
+171,Iran-Uzbekistan,97.9
+172,Iran-Laos,96.5
+173,Iran-Cambodia,18.755
+174,Iran-Tajikistan,98.595
+175,Iran-Jordan,51.29
+176,Iran-Georgia,84.04
+177,Iran-Bhutan,99.23
+178,Iran-Armenia,96.155
+179,Iran-Kuwait,94.6
+180,Iran-Qatar,95.405
+182,Iran-Singapore,78.335
+183,Iran-Bahrain,98.88
+184,Iran-Maldives,97.585
+185,Mongolia-Pakistan,1.695
+186,Mongolia-Myanmar,2.39
+187,Mongolia-Afghanistan,2.005
+188,Mongolia-Yemen,93.6
+189,Mongolia-Thailand,11.25
+190,Mongolia-Turkmenistan,17.57
+191,Mongolia-Iraq,0.365
+192,Mongolia-Japan,0.435
+193,Mongolia-Vietnam,4.11
+194,Mongolia-Oman,8.42
+195,Mongolia-Kyrgyzstan,4.69
+196,Mongolia-Syria,96.855
+197,Mongolia-Bangladesh,0.505
+198,Mongolia-Nepal,0.705
+199,Mongolia-N. Korea,99.04
+201,Mongolia-Azerbaijan,0.725
+202,Mongolia-United Arab Emirates,0.745
+203,Mongolia-Sri Lanka,0.43
+204,Mongolia-Israel,0.66
+205,Mongolia-Uzbekistan,1.405
+206,Mongolia-Laos,0.635
+207,Mongolia-Cambodia,0.355
+208,Mongolia-Tajikistan,2.38
+209,Mongolia-Jordan,1.195
+210,Mongolia-Georgia,3.63
+211,Mongolia-Bhutan,0.765
+212,Mongolia-Armenia,0.585
+213,Mongolia-Kuwait,2.885
+214,Mongolia-Qatar,1.085
+215,Mongolia-Lebanon,5.83
+216,Mongolia-Singapore,0.34
+217,Mongolia-Bahrain,1.385
+218,Mongolia-Maldives,1.295
+219,Pakistan-Myanmar,90.94
+220,Pakistan-Afghanistan,98.02
+221,Pakistan-Yemen,98.98
+222,Pakistan-Thailand,15.96
+223,Pakistan-Turkmenistan,0.615
+224,Pakistan-Iraq,3.995
+225,Pakistan-Japan,74.2
+226,Pakistan-Vietnam,1.455
+227,Pakistan-Oman,0.46
+228,Pakistan-Kyrgyzstan,60.115
+229,Pakistan-Syria,1.6
+230,Pakistan-Bangladesh,94.55
+231,Pakistan-Nepal,21.355
+232,Pakistan-N. Korea,3.615
+233,Pakistan-S. Korea,1.31
+234,Pakistan-Azerbaijan,1.18
+235,Pakistan-United Arab Emirates,1.03
+236,Pakistan-Sri Lanka,47.87
+237,Pakistan-Israel,88.98
+238,Pakistan-Uzbekistan,3.42
+239,Pakistan-Laos,0.635
+240,Pakistan-Cambodia,4.595
+241,Pakistan-Tajikistan,85.015
+242,Pakistan-Jordan,7.675
+243,Pakistan-Georgia,1.245
+244,Pakistan-Bhutan,89.375
+245,Pakistan-Armenia,95.21
+246,Pakistan-Kuwait,1.61
+247,Pakistan-Qatar,3.255
+248,Pakistan-Lebanon,94.775
+249,Pakistan-Singapore,0.695
+250,Pakistan-Bahrain,0.74
+251,Pakistan-Maldives,89.06
+252,Myanmar-Afghanistan,33.545
+254,Myanmar-Thailand,78.595
+255,Myanmar-Turkmenistan,36.915
+256,Myanmar-Iraq,89.815
+257,Myanmar-Japan,7.79
+258,Myanmar-Vietnam,1.765
+259,Myanmar-Oman,3.145
+260,Myanmar-Kyrgyzstan,1.295
+261,Myanmar-Syria,93.895
+262,Myanmar-Bangladesh,90.43
+263,Myanmar-Nepal,2.255
+264,Myanmar-N. Korea,96.5
+265,Myanmar-S. Korea,3.93
+266,Myanmar-Azerbaijan,1.295
+267,Myanmar-United Arab Emirates,1.715
+268,Myanmar-Sri Lanka,72.02
+269,Myanmar-Israel,91.055
+270,Myanmar-Uzbekistan,9.765
+271,Myanmar-Laos,14.75
+272,Myanmar-Cambodia,28.33
+273,Myanmar-Tajikistan,7.79
+274,Myanmar-Jordan,8.42
+275,Myanmar-Georgia,35.265
+276,Myanmar-Bhutan,84.25
+277,Myanmar-Armenia,89.07
+278,Myanmar-Kuwait,6.465
+279,Myanmar-Qatar,11.725
+280,Myanmar-Lebanon,61.87
+281,Myanmar-Singapore,44.13
+282,Myanmar-Bahrain,3.645
+283,Myanmar-Maldives,98.45
+284,Afghanistan-Yemen,95.21
+285,Afghanistan-Thailand,2.535
+286,Afghanistan-Turkmenistan,92.84
+287,Afghanistan-Iraq,91.8
+288,Afghanistan-Japan,2.08
+289,Afghanistan-Vietnam,97.21
+290,Afghanistan-Oman,0.535
+291,Afghanistan-Kyrgyzstan,1.76
+292,Afghanistan-Syria,98.24
+293,Afghanistan-Bangladesh,11.58
+294,Afghanistan-Nepal,97.29
+295,Afghanistan-N. Korea,97.99
+296,Afghanistan-S. Korea,4.155
+297,Afghanistan-Azerbaijan,11.87
+298,Afghanistan-United Arab Emirates,72.02
+299,Afghanistan-Sri Lanka,27.06
+300,Afghanistan-Israel,98.19
+301,Afghanistan-Uzbekistan,86.345
+302,Afghanistan-Laos,94.17
+303,Afghanistan-Cambodia,51.29
+304,Afghanistan-Tajikistan,3.25
+305,Afghanistan-Jordan,4.32
+306,Afghanistan-Georgia,0.795
+307,Afghanistan-Bhutan,9.96
+308,Afghanistan-Armenia,96.28
+309,Afghanistan-Kuwait,56.59
+310,Afghanistan-Qatar,4.5
+311,Afghanistan-Lebanon,99.115
+312,Afghanistan-Singapore,3.155
+313,Afghanistan-Bahrain,7.165
+314,Afghanistan-Maldives,1.31
+316,Yemen-Turkmenistan,98.925
+318,Yemen-Japan,98.06
+319,Yemen-Vietnam,97.335
+320,Yemen-Oman,61.315
+321,Yemen-Kyrgyzstan,97.655
+322,Yemen-Syria,78.595
+325,Yemen-N. Korea,90.1
+326,Yemen-S. Korea,98.26
+327,Yemen-Azerbaijan,90.63
+328,Yemen-United Arab Emirates,88.075
+329,Yemen-Sri Lanka,30.91
+330,Yemen-Israel,97.54
+331,Yemen-Uzbekistan,87.125
+332,Yemen-Laos,6.355
+334,Yemen-Tajikistan,99.305
+335,Yemen-Jordan,98.82
+336,Yemen-Georgia,1.63
+337,Yemen-Bhutan,95.5
+338,Yemen-Armenia,97.295
+339,Yemen-Kuwait,97.445
+340,Yemen-Qatar,87.53
+341,Yemen-Lebanon,97.895
+342,Yemen-Singapore,0.375
+343,Yemen-Bahrain,95.68
+345,Thailand-Turkmenistan,15.96
+346,Thailand-Iraq,98.14
+347,Thailand-Japan,2.8
+348,Thailand-Vietnam,0.48
+349,Thailand-Oman,0.305
+350,Thailand-Kyrgyzstan,1.06
+351,Thailand-Syria,98.51
+352,Thailand-Bangladesh,92.405
+353,Thailand-Nepal,0.23
+354,Thailand-N. Korea,98.06
+355,Thailand-S. Korea,0.4
+356,Thailand-Azerbaijan,0.985
+357,Thailand-United Arab Emirates,2.68
+358,Thailand-Sri Lanka,4.24
+359,Thailand-Israel,2.54
+360,Thailand-Uzbekistan,3.375
+361,Thailand-Laos,4.675
+362,Thailand-Cambodia,84.54
+363,Thailand-Tajikistan,2.79
+364,Thailand-Jordan,0.665
+365,Thailand-Georgia,5.45
+366,Thailand-Bhutan,0.245
+367,Thailand-Armenia,0.75
+368,Thailand-Kuwait,1.145
+369,Thailand-Qatar,2.955
+370,Thailand-Lebanon,12.875
+371,Thailand-Singapore,0.53
+372,Thailand-Bahrain,0.31
+373,Thailand-Maldives,7.405
+374,Turkmenistan-Iraq,96.8
+375,Turkmenistan-Japan,97.895
+376,Turkmenistan-Vietnam,1.835
+377,Turkmenistan-Oman,44.055
+378,Turkmenistan-Kyrgyzstan,95.16
+379,Turkmenistan-Syria,88.585
+380,Turkmenistan-Bangladesh,75.53
+381,Turkmenistan-Nepal,12.82
+382,Turkmenistan-N. Korea,99.21
+383,Turkmenistan-S. Korea,99.13
+384,Turkmenistan-Azerbaijan,94.17
+385,Turkmenistan-United Arab Emirates,96.855
+386,Turkmenistan-Sri Lanka,0.885
+387,Turkmenistan-Israel,95.345
+388,Turkmenistan-Uzbekistan,90.465
+389,Turkmenistan-Laos,1.34
+390,Turkmenistan-Cambodia,46.14
+391,Turkmenistan-Tajikistan,97.425
+392,Turkmenistan-Jordan,98.015
+393,Turkmenistan-Georgia,98.49
+394,Turkmenistan-Bhutan,0.685
+395,Turkmenistan-Armenia,96.965
+396,Turkmenistan-Kuwait,94.67
+397,Turkmenistan-Qatar,91.125
+398,Turkmenistan-Lebanon,98.97
+399,Turkmenistan-Singapore,0.805
+400,Turkmenistan-Bahrain,4.1
+401,Turkmenistan-Maldives,98.61
+402,Iraq-Japan,96.5
+403,Iraq-Vietnam,78.545
+404,Iraq-Oman,2.495
+405,Iraq-Kyrgyzstan,0.91
+406,Iraq-Syria,99.245
+407,Iraq-Bangladesh,87.235
+408,Iraq-Nepal,40.715
+409,Iraq-N. Korea,99.245
+410,Iraq-S. Korea,1.04
+411,Iraq-Azerbaijan,98.78
+412,Iraq-United Arab Emirates,98.755
+413,Iraq-Sri Lanka,99.17
+414,Iraq-Israel,98.035
+415,Iraq-Uzbekistan,98.65
+416,Iraq-Laos,98.17
+417,Iraq-Cambodia,96.965
+418,Iraq-Tajikistan,94.66
+419,Iraq-Jordan,89.53
+420,Iraq-Georgia,93.6
+421,Iraq-Bhutan,97.265
+422,Iraq-Armenia,84.04
+423,Iraq-Kuwait,99.615
+424,Iraq-Qatar,98.565
+425,Iraq-Lebanon,91.595
+426,Iraq-Singapore,13.07
+427,Iraq-Bahrain,97.425
+428,Iraq-Maldives,98.09
+429,Japan-Vietnam,91.89
+430,Japan-Oman,0.495
+431,Japan-Kyrgyzstan,1.36
+432,Japan-Syria,98.305
+433,Japan-Bangladesh,78.175
+434,Japan-Nepal,0.755
+435,Japan-N. Korea,99.51
+436,Japan-S. Korea,98.87
+437,Japan-Azerbaijan,97.62
+438,Japan-United Arab Emirates,58.175
+439,Japan-Sri Lanka,97.12
+440,Japan-Israel,83.86
+441,Japan-Uzbekistan,88.89
+442,Japan-Laos,1.48
+443,Japan-Cambodia,0.595
+444,Japan-Tajikistan,0.97
+445,Japan-Jordan,79.295
+446,Japan-Georgia,0.59
+447,Japan-Bhutan,0.87
+448,Japan-Armenia,3.7
+449,Japan-Kuwait,87.895
+450,Japan-Qatar,2.11
+451,Japan-Lebanon,95.68
+452,Japan-Singapore,0.425
+453,Japan-Bahrain,95.6
+454,Japan-Maldives,7.99
+455,Vietnam-Oman,1.12
+456,Vietnam-Kyrgyzstan,1.995
+457,Vietnam-Syria,92.595
+458,Vietnam-Bangladesh,1.91
+459,Vietnam-Nepal,2.455
+460,Vietnam-N. Korea,91.355
+461,Vietnam-S. Korea,2.8
+462,Vietnam-Azerbaijan,0.48
+463,Vietnam-United Arab Emirates,0.965
+464,Vietnam-Sri Lanka,0.35
+465,Vietnam-Israel,0.675
+466,Vietnam-Uzbekistan,1.31
+467,Vietnam-Laos,9.9
+468,Vietnam-Cambodia,15.885
+469,Vietnam-Tajikistan,0.95
+470,Vietnam-Jordan,0.705
+471,Vietnam-Georgia,1.13
+472,Vietnam-Bhutan,13.245
+473,Vietnam-Armenia,1.12
+474,Vietnam-Kuwait,0.395
+475,Vietnam-Qatar,1.41
+476,Vietnam-Lebanon,1.55
+477,Vietnam-Singapore,0.355
+478,Vietnam-Bahrain,0.43
+479,Vietnam-Maldives,0.415
+480,Oman-Kyrgyzstan,0.4
+481,Oman-Syria,10.04
+482,Oman-Bangladesh,1.225
+483,Oman-Nepal,1.65
+484,Oman-N. Korea,94.64
+485,Oman-S. Korea,0.315
+486,Oman-Azerbaijan,1.06
+487,Oman-United Arab Emirates,18.755
+488,Oman-Sri Lanka,0.355
+489,Oman-Israel,1.28
+490,Oman-Uzbekistan,0.395
+491,Oman-Laos,0.31
+492,Oman-Cambodia,0.635
+493,Oman-Tajikistan,1.285
+494,Oman-Jordan,22.885
+495,Oman-Georgia,0.34
+496,Oman-Bhutan,0.93
+497,Oman-Armenia,0.895
+498,Oman-Kuwait,0.68
+499,Oman-Qatar,6.525
+500,Oman-Lebanon,1.91
+501,Oman-Singapore,0.21
+502,Oman-Bahrain,1.885
+503,Oman-Maldives,0.295
+504,Kyrgyzstan-Syria,93.75
+505,Kyrgyzstan-Bangladesh,0.305
+506,Kyrgyzstan-Nepal,2.79
+507,Kyrgyzstan-N. Korea,87.53
+508,Kyrgyzstan-S. Korea,0.46
+509,Kyrgyzstan-Azerbaijan,9.27
+510,Kyrgyzstan-United Arab Emirates,0.505
+511,Kyrgyzstan-Sri Lanka,1.25
+512,Kyrgyzstan-Israel,0.66
+513,Kyrgyzstan-Uzbekistan,28.925
+514,Kyrgyzstan-Laos,7.045
+515,Kyrgyzstan-Cambodia,5.575
+516,Kyrgyzstan-Tajikistan,70.315
+517,Kyrgyzstan-Jordan,0.35
+518,Kyrgyzstan-Georgia,97.255
+519,Kyrgyzstan-Bhutan,0.43
+520,Kyrgyzstan-Armenia,94.035
+521,Kyrgyzstan-Kuwait,3.7
+522,Kyrgyzstan-Qatar,2.38
+523,Kyrgyzstan-Lebanon,96.625
+524,Kyrgyzstan-Singapore,1.085
+525,Kyrgyzstan-Bahrain,69.09
+526,Kyrgyzstan-Maldives,1.67
+527,Syria-Bangladesh,76.335
+528,Syria-Nepal,98.37
+529,Syria-N. Korea,94.035
+530,Syria-S. Korea,97.115
+531,Syria-Azerbaijan,78.595
+532,Syria-United Arab Emirates,91.355
+534,Syria-Israel,99.24
+535,Syria-Uzbekistan,87.895
+536,Syria-Laos,97.69
+537,Syria-Cambodia,98.005
+538,Syria-Tajikistan,91.58
+539,Syria-Jordan,98.26
+540,Syria-Georgia,96.3
+541,Syria-Bhutan,0.845
+542,Syria-Armenia,64.8
+543,Syria-Kuwait,95.5
+544,Syria-Qatar,82.43
+545,Syria-Lebanon,67.77
+547,Syria-Bahrain,98.005
+548,Syria-Maldives,97.115
+549,Bangladesh-Nepal,6.645
+550,Bangladesh-N. Korea,97.99
+551,Bangladesh-S. Korea,23.665
+552,Bangladesh-Azerbaijan,0.465
+554,Bangladesh-Sri Lanka,2.415
+555,Bangladesh-Israel,97.985
+556,Bangladesh-Uzbekistan,0.75
+557,Bangladesh-Laos,3.7
+558,Bangladesh-Cambodia,0.21
+559,Bangladesh-Tajikistan,0.72
+560,Bangladesh-Jordan,0.585
+561,Bangladesh-Georgia,2.68
+562,Bangladesh-Bhutan,5.38
+563,Bangladesh-Armenia,97.655
+564,Bangladesh-Kuwait,14.985
+565,Bangladesh-Qatar,0.505
+566,Bangladesh-Lebanon,1.535
+567,Bangladesh-Singapore,0.895
+568,Bangladesh-Bahrain,2.415
+569,Bangladesh-Maldives,0.955
+570,Nepal-N. Korea,95.005
+571,Nepal-S. Korea,98.885
+572,Nepal-Azerbaijan,0.61
+573,Nepal-United Arab Emirates,89.775
+574,Nepal-Sri Lanka,6.42
+575,Nepal-Israel,1.61
+576,Nepal-Uzbekistan,0.97
+577,Nepal-Laos,2.905
+578,Nepal-Cambodia,0.575
+579,Nepal-Tajikistan,0.495
+580,Nepal-Jordan,1.42
+581,Nepal-Georgia,0.47
+583,Nepal-Armenia,9.14
+584,Nepal-Kuwait,0.465
+585,Nepal-Qatar,63.0
+586,Nepal-Lebanon,2.71
+587,Nepal-Singapore,1.34
+588,Nepal-Bahrain,0.905
+590,N. Korea-S. Korea,91.94
+591,N. Korea-Azerbaijan,62.5
+592,N. Korea-United Arab Emirates,85.48
+593,N. Korea-Sri Lanka,96.105
+594,N. Korea-Israel,99.055
+595,N. Korea-Uzbekistan,94.54
+596,N. Korea-Laos,52.58
+597,N. Korea-Cambodia,93.73
+598,N. Korea-Tajikistan,56.4
+599,N. Korea-Jordan,0.99
+600,N. Korea-Georgia,91.125
+601,N. Korea-Bhutan,97.065
+602,N. Korea-Armenia,69.09
+603,N. Korea-Kuwait,12.85
+604,N. Korea-Qatar,88.045
+605,N. Korea-Lebanon,69.09
+606,N. Korea-Singapore,3.875
+607,N. Korea-Bahrain,82.985
+608,N. Korea-Maldives,94.895
+609,S. Korea-Azerbaijan,0.35
+610,S. Korea-United Arab Emirates,5.105
+611,S. Korea-Sri Lanka,94.425
+612,S. Korea-Israel,5.575
+613,S. Korea-Uzbekistan,0.295
+614,S. Korea-Laos,1.695
+615,S. Korea-Cambodia,0.675
+616,S. Korea-Tajikistan,1.74
+617,S. Korea-Jordan,0.335
+618,S. Korea-Georgia,3.245
+619,S. Korea-Bhutan,1.86
+620,S. Korea-Armenia,94.54
+621,S. Korea-Kuwait,4.5
+622,S. Korea-Qatar,0.77
+623,S. Korea-Lebanon,0.425
+624,S. Korea-Singapore,95.215
+625,S. Korea-Bahrain,99.03
+626,S. Korea-Maldives,88.915
+627,Azerbaijan-United Arab Emirates,0.345
+628,Azerbaijan-Sri Lanka,0.645
+629,Azerbaijan-Israel,1.55
+630,Azerbaijan-Uzbekistan,9.03
+631,Azerbaijan-Laos,60.72
+632,Azerbaijan-Cambodia,0.69
+633,Azerbaijan-Tajikistan,4.555
+634,Azerbaijan-Jordan,0.435
+635,Azerbaijan-Georgia,4.26
+636,Azerbaijan-Bhutan,0.815
+637,Azerbaijan-Armenia,98.29
+638,Azerbaijan-Kuwait,1.03
+639,Azerbaijan-Qatar,2.79
+640,Azerbaijan-Lebanon,27.98
+641,Azerbaijan-Singapore,0.335
+642,Azerbaijan-Bahrain,0.79
+643,Azerbaijan-Maldives,0.37
+644,United Arab Emirates-Sri Lanka,2.7
+645,United Arab Emirates-Israel,0.81
+646,United Arab Emirates-Uzbekistan,0.185
+647,United Arab Emirates-Laos,1.055
+648,United Arab Emirates-Cambodia,1.44
+649,United Arab Emirates-Tajikistan,1.31
+650,United Arab Emirates-Jordan,0.15
+651,United Arab Emirates-Georgia,0.995
+652,United Arab Emirates-Bhutan,0.185
+653,United Arab Emirates-Armenia,1.285
+654,United Arab Emirates-Kuwait,96.37
+655,United Arab Emirates-Qatar,63.02
+656,United Arab Emirates-Lebanon,6.555
+657,United Arab Emirates-Singapore,0.105
+658,United Arab Emirates-Bahrain,20.86
+659,United Arab Emirates-Maldives,98.545
+660,Sri Lanka-Israel,0.615
+661,Sri Lanka-Uzbekistan,1.76
+662,Sri Lanka-Laos,2.175
+663,Sri Lanka-Cambodia,2.325
+664,Sri Lanka-Tajikistan,7.79
+665,Sri Lanka-Jordan,2.415
+666,Sri Lanka-Georgia,40.75
+667,Sri Lanka-Bhutan,19.705
+668,Sri Lanka-Armenia,1.675
+669,Sri Lanka-Kuwait,0.805
+670,Sri Lanka-Qatar,1.455
+671,Sri Lanka-Lebanon,17.865
+672,Sri Lanka-Singapore,4.79
+673,Sri Lanka-Bahrain,94.67
+675,Israel-Uzbekistan,6.25
+676,Israel-Laos,96.455
+677,Israel-Cambodia,25.49
+678,Israel-Tajikistan,2.06
+679,Israel-Jordan,1.785
+680,Israel-Georgia,1.885
+681,Israel-Bhutan,7.18
+682,Israel-Armenia,9.265
+683,Israel-Kuwait,1.98
+684,Israel-Qatar,78.945
+685,Israel-Lebanon,96.165
+686,Israel-Singapore,0.58
+687,Israel-Bahrain,3.375
+688,Israel-Maldives,82.14
+689,Uzbekistan-Laos,52.945
+690,Uzbekistan-Cambodia,3.435
+691,Uzbekistan-Tajikistan,99.535
+692,Uzbekistan-Jordan,59.15
+693,Uzbekistan-Georgia,67.46
+694,Uzbekistan-Bhutan,27.98
+695,Uzbekistan-Armenia,95.22
+696,Uzbekistan-Kuwait,0.42
+697,Uzbekistan-Qatar,7.345
+698,Uzbekistan-Lebanon,96.435
+699,Uzbekistan-Singapore,1.59
+700,Uzbekistan-Bahrain,0.5
+701,Uzbekistan-Maldives,0.8
+702,Laos-Cambodia,0.15
+703,Laos-Tajikistan,0.985
+704,Laos-Jordan,0.31
+705,Laos-Georgia,0.32
+706,Laos-Bhutan,5.105
+707,Laos-Armenia,0.745
+708,Laos-Kuwait,0.295
+709,Laos-Qatar,3.145
+710,Laos-Lebanon,86.345
+711,Laos-Singapore,2.985
+712,Laos-Bahrain,5.33
+713,Laos-Maldives,2.08
+714,Cambodia-Tajikistan,0.54
+715,Cambodia-Jordan,0.73
+716,Cambodia-Georgia,3.565
+717,Cambodia-Bhutan,0.545
+718,Cambodia-Armenia,4.595
+719,Cambodia-Kuwait,1.325
+720,Cambodia-Qatar,2.725
+721,Cambodia-Lebanon,2.615
+722,Cambodia-Singapore,1.325
+723,Cambodia-Bahrain,0.735
+724,Cambodia-Maldives,0.44
+725,Tajikistan-Jordan,1.21
+726,Tajikistan-Georgia,89.53
+727,Tajikistan-Bhutan,1.03
+728,Tajikistan-Armenia,55.455
+729,Tajikistan-Kuwait,0.675
+730,Tajikistan-Qatar,7.595
+731,Tajikistan-Lebanon,94.17
+732,Tajikistan-Singapore,1.55
+733,Tajikistan-Bahrain,88.275
+734,Tajikistan-Maldives,1.65
+735,Jordan-Georgia,0.505
+736,Jordan-Bhutan,0.765
+737,Jordan-Armenia,1.695
+738,Jordan-Kuwait,3.155
+739,Jordan-Qatar,15.94
+740,Jordan-Lebanon,12.55
+741,Jordan-Singapore,0.205
+742,Jordan-Bahrain,3.845
+743,Jordan-Maldives,0.235
+744,Georgia-Bhutan,0.285
+745,Georgia-Armenia,27.515
+746,Georgia-Kuwait,0.74
+747,Georgia-Qatar,0.5
+748,Georgia-Lebanon,98.45
+749,Georgia-Singapore,2.495
+750,Georgia-Bahrain,94.785
+751,Georgia-Maldives,1.695
+752,Bhutan-Armenia,3.77
+753,Bhutan-Kuwait,0.285
+754,Bhutan-Qatar,1.0
+755,Bhutan-Lebanon,0.54
+756,Bhutan-Singapore,0.425
+757,Bhutan-Bahrain,0.85
+758,Bhutan-Maldives,1.07
+759,Armenia-Kuwait,0.325
+760,Armenia-Qatar,1.53
+761,Armenia-Lebanon,1.53
+762,Armenia-Singapore,3.2
+763,Armenia-Bahrain,96.655
+764,Armenia-Maldives,14.08
+765,Kuwait-Qatar,29.57
+766,Kuwait-Lebanon,97.945
+767,Kuwait-Singapore,0.205
+768,Kuwait-Bahrain,95.445
+769,Kuwait-Maldives,2.96
+770,Qatar-Lebanon,49.98
+771,Qatar-Singapore,0.42
+772,Qatar-Bahrain,98.49
+773,Qatar-Maldives,78.645
+774,Lebanon-Singapore,0.665
+775,Lebanon-Bahrain,99.035
+776,Lebanon-Maldives,3.435
+777,Singapore-Bahrain,0.545
+778,Singapore-Maldives,1.0
+779,Bahrain-Maldives,0.265
